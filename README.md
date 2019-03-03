@@ -1,11 +1,16 @@
-<p align="center">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cf6d2827-58ff-458b-9f0f-2a1b3b9987a0/deploy-status)](https://app.netlify.com/sites/angry-stonebraker-ab2f54/deploys)
+
+# Denis Khranovsky's personal website
+
+<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+<!-- <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
   Starter for the official Gatsby blog theme
-</h1>
+</h1> -->
 
 Quickly get started using the Gatsby blog theme! This starter creates a new Gatsby site that is preconfigured to work with the [official Gatsby blog theme](https://www.npmjs.com/package/gatsby-theme-blog).
 
