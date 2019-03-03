@@ -77,7 +77,10 @@ function SEO({ description, lang, meta, keywords, title }) {
             : []
         )
         .concat(meta)}
-    />
+    >
+      <link href="https://micro.blog/xronosd" rel="me" />
+    </Helmet>
+    
   )
 }
 
