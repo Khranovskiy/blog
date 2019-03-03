@@ -1,24 +1,20 @@
 module.exports = {
+  siteMetadata: {
+    title: `Khranovsky Blog`,
+    author: `Denis Khranovsky`,
+    description: `Denis Khranovsky Blog`,
+    siteUrl: `https://khranovsky.com`,
+    social: [
+      {
+        name: `twitter`,
+        url: `https://twitter.com/xronosd`,
+      },
+    ],
+  },
   plugins: [
     {
       resolve: `gatsby-theme-blog`,
       options: {},
     },
   ],
-  // Customize your site metadata:
-  siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
-    social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
-      },
-    ],
-  },
 }
