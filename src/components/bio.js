@@ -41,8 +41,10 @@ function Bio() {
               Written by <strong>{author}</strong>.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                @xronosd
               </a>
+              {` `}
+              <a href="https://micro.blog/xronosd" rel="me">Micro.blog</a>
             </p>
           </div>
         )
