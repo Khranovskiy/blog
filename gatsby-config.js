@@ -7,14 +7,17 @@ module.exports = {
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/xronosd`,
-      },
-    ],
+        url: `https://twitter.com/xronosd`
+      }
+    ]
   },
   plugins: [
     {
       resolve: `gatsby-theme-blog`,
-      options: {},
+      options: {}
     },
-  ],
-}
+    {
+      resolve: `gatsby-plugin-netlify-cms`
+    }
+  ]
+};

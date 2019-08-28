@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "gatsby": "^2.15.9",
+    "gatsby-plugin-netlify-cms": "^4.1.13",
     "gatsby-theme-blog": "^1.0.2",
+    "netlify-cms": "^2.9.7",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
