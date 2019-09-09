@@ -1,20 +1,21 @@
 {
+  "name": "gatsby-starter-blog-theme",
   "private": true,
-  "name": "example",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "scripts": {
+    "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
-    "cleanstart": "gatsby clean && gatsby develop"
-  },
-  "private": true,
-  "main": "gatsby-config.js",
-  "dependencies": {
-    "gatsby": "latest",
-    "gatsby-plugin-manifest": "^2.2.5",
-    "gatsby-theme-dev-blog": "*"
+    "build": "gatsby build"
   },
   "repository": "git@github.com:Khranovskiy/blog.git",
   "author": "Khranovskiy <xronosd@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.15.9",
+    "gatsby-plugin-netlify-cms": "^4.1.13",
+    "gatsby-theme-blog": "^1.0.2",
+    "netlify-cms": "^2.9.7",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
 }
