@@ -7,10 +7,14 @@
     "build": "gatsby build",
     "cleanstart": "gatsby clean && gatsby develop"
   },
+  "private": true,
   "main": "gatsby-config.js",
   "dependencies": {
     "gatsby": "latest",
     "gatsby-plugin-manifest": "^2.2.5",
     "gatsby-theme-dev-blog": "*"
-  }
+  },
+  "repository": "git@github.com:Khranovskiy/blog.git",
+  "author": "Khranovskiy <xronosd@gmail.com>",
+  "license": "MIT"
 }
