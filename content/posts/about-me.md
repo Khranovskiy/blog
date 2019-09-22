@@ -63,7 +63,7 @@ it was ridiculous to describe on LinkedIn. Especially when you
 start to compare yourself with more successful (as it seems 
 from the side) people.
 
-Trying not to compare me with people.
+I'm trying not to compare myself with people.
 
 This year, I finally want to enjoy life, to move to a 
 country where it will be nice to be where you can consider your home. Engage in an interesting project. 
