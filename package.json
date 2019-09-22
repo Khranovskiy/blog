@@ -5,7 +5,8 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build"
+    "build": "gatsby build",
+    "serve": "NODE_ENV=production gatsby build && gatsby serve"
   },
   "repository": "git@github.com:Khranovskiy/blog.git",
   "author": "Khranovskiy <xronosd@gmail.com>",
