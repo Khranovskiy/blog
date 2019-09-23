@@ -1,11 +1,10 @@
 ---
+path: about-me
+date: '2019-01-29'
 title: About me
-date: "2019-01-29"
-description: "Introduction post about me"
 ---
-
 Hello, my name is Denis, I'm from Tula, Russia, a town 170km 
-far from Moscow, known where is Leo Tolstoy was living. 
+far from Moscow, known where Leo Tolstoy was living. 
 
 I'm a .net developer who also appreciates web technologies (JS, Node.js). 
 Now I'm in a pause for 4 months, trying to change smth in my life. 
