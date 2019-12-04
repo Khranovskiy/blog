@@ -31,7 +31,10 @@ class Footer extends React.Component {
         >
           github
         </a>{' '}
-        &bull;
+        &bull;{' '}
+        <a href={'https://micro.blog/xronosd'} target="_blank" rel="me">
+          micro.blog
+        </a>{' '}
       </footer>
     )
   }

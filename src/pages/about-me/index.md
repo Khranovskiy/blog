@@ -1,7 +1,7 @@
 ---
 title: 'About me'
 date: '2019-01-29'
-spoiler: Short authors bio.
+spoiler: A short bio.
 ---
 
 Hello, my name is Denis, I'm from Tula, Russia, a town 170km 
