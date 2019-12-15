@@ -4,7 +4,7 @@ date: '2019-12-16'
 spoiler: This page contains information that should be useful for recruiters.
 ---
 
-I'm looking for a senior full - stack role on a product or developer tools team. I m specialised in software products, libraries, tools and services for developers.
+I'm looking for a senior full-stack role on a product or developer tools team. I'm specialised in software products, libraries, tools and services for developers.
 
 Ideally you:
 
