@@ -17,7 +17,7 @@ Ideally you:
 * Not a “business logic” role
 * Located somewhere I’d like to live (London, Netherlands)
 * Or, is a thriving remote-friendly team (e.g. Buffer, GitLab, WordPress, etc)
-* Or can offer me a radical career change (i.e. into machine learning)
+* Or can offer me a radical career change (i.g. into distributed systems, machine learning)
 * no burocracy, no agile scrum kanban cargo cult
 * keep calm
 
