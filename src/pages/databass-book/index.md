@@ -6,6 +6,7 @@ spoiler:
 
 A good book or paper (for me) has lots of references. "Database Internals" has 220. You can use these references to learn more about related concepts in more detail.
 
+![Database internals paper book](di.jpeg)
 Guide or key to 220 papers. Site https://www.databass.dev
 
 distributed database systems
